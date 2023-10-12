@@ -23,6 +23,9 @@ function updateMap() {
                 })
                 .setLngLat([longitude, latitude])
                 .addTo(map);
+            //
+            //
+            // Hover Effect
         });
     });
 }
